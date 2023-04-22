@@ -3,8 +3,8 @@ package basecase
 import (
 	"testing"
 
-	"github.com/gruntwork-io/terratest/modules/logger"
-	test_structure "github.com/gruntwork-io/terratest/modules/test-structure"
+	"github.com/tnn-gruntwork-io/terratest/modules/logger"
+	test_structure "github.com/tnn-gruntwork-io/terratest/modules/test-structure"
 )
 
 func TestWithStages(t *testing.T) {
